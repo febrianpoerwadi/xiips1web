@@ -1,1 +1,1 @@
-# xiips1web
+Ini merupakan website Kelas XI IPS 1 Website yang dibuat menggunakan Bootstrap 5 dan di design oleh BootstrapMade. Website ini dibuat hanya untuk Kenang-kenangan tidak dijadikan untuk comercial atau dijadikan uang. Website ini juga bukan 100% buatan sendiri :)
